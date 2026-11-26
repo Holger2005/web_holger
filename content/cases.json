@@ -1,0 +1,34 @@
+{
+  "vinculacion": {
+    "category": "Automatización", "image": "flujos.webp", "alt": "Esquema conceptual de una entrada web conectada con n8n, Gemini y Google Workspace.",
+    "tags": ["n8n", "Gemini", "Google Workspace"], "subtitle": "Automatización de vinculación universitaria",
+    "context": "En el proyecto de vinculación de la UTPL trabajé en una plataforma web para coordinar tareas que, de forma manual, exigían pasar información entre herramientas.",
+    "design": "Organicé la interfaz en seis módulos y conecté siete flujos de n8n Cloud. La solución combina JavaScript, Google Workspace y Gemini. El modelado con BPMN 2.0 permitió describir los pasos antes de integrarlos.",
+    "example": "El esquema resume las herramientas del proyecto. Una entrada desde la web puede iniciar un flujo de n8n que combina procesamiento con Gemini e integración con Workspace. Es una ilustración del enfoque, no una captura de un flujo institucional.",
+    "facts": [["Interfaz","6 módulos"],["Orquestación","7 flujos"],["Contexto","UTPL"]]
+  },
+  "patitas": {
+    "category": "Backend", "image": "patitas.webp", "alt": "Ilustración de fichas apiladas con una huella que representa los registros de mascotas.",
+    "tags": ["Java", "Spring Boot", "PostgreSQL"], "subtitle": "Una API para gestionar adopciones",
+    "context": "Una mascota disponible puede pasar a adoptada una sola vez. El backend expone esa regla mediante una operación que comprueba el estado antes de guardar el cambio.",
+    "design": "El controlador recibe la solicitud, el servicio consulta y actualiza la entidad y el repositorio se encarga de la persistencia. El proyecto incorpora autenticación JWT y distingue los permisos de consulta y administración.",
+    "example": "Una petición PUT a /api/mascotas/{id}/adoptar permite al administrador registrar la adopción. Si la mascota ya está adoptada, el controlador devuelve HTTP 409. Si el identificador no existe, devuelve HTTP 404.",
+    "facts": [["Entidad","Mascota"],["Operación","Adopción"],["Persistencia","Spring Data JPA"]]
+  },
+  "rick-morty-challenge": {
+    "category": "Frontend", "image": "explorador.webp", "alt": "Ilustración de la búsqueda con una lista de resultados en varias tarjetas.",
+    "tags": ["Angular", "TypeScript", "RxJS"], "subtitle": "Explorador de Rick and Morty",
+    "context": "La aplicación permite localizar personajes por nombre y estado, recorrer resultados paginados y consultar su origen, ubicación y primer episodio.",
+    "design": "Separé el consumo de la API en un servicio REST. La búsqueda espera una pausa de 500 ms y utiliza switchMap para mantener la consulta más reciente. Al seleccionar un personaje, forkJoin reúne las consultas de detalle.",
+    "example": "Al escribir un nombre, la búsqueda vuelve a la primera página. Cuando el usuario llega al final de la tabla, la aplicación solicita otra página y agrega los personajes al listado.",
+    "facts": [["Consulta","Nombre y estado"],["Espera","500 ms"],["Detalle","3 consultas"]]
+  },
+  "comisiones": {
+    "category":"Automatización", "image":"comisiones.webp","alt":"Primera escena de la demostración del cálculo de comisiones.",
+    "tags":["JavaScript","Reglas de negocio"],"subtitle":"De una regla comercial a un cálculo reproducible",
+    "context":"El ejercicio calcula un sueldo total a partir del sueldo base, las ventas y el precio del producto.",
+    "design":"La función de cálculo mantiene separada la regla de negocio de la lectura de campos y la presentación del resultado. Las primeras cinco ventas no generan comisión. Cada venta adicional aporta un 10 % del precio del producto.",
+    "example":"Con ocho ventas de $100 y un sueldo base de $500, tres ventas generan $10 cada una. La comisión es $30 y el sueldo total es $530.",
+    "facts":[["Umbral","5 ventas"],["Comisión","10 %"],["Salida","Sueldo total"]]
+  }
+}

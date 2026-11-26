@@ -1,0 +1,253 @@
+[
+  {
+    "id": "vinculacion",
+    "title": "Vinculación con IA",
+    "summary": "Seis módulos web conectan la gestión de vinculación universitaria con siete flujos en n8n.",
+    "category": "Automatización"
+  },
+  {
+    "id": "web_holger",
+    "title": "Guía de destinos",
+    "summary": "Páginas de destinos, gastronomía, horarios y opiniones.",
+    "category": "Frontend",
+    "url": "https://github.com/Holger2005/web_holger"
+  },
+  {
+    "id": "ejercicio_html",
+    "title": "Prácticas de HTML",
+    "summary": "Una galería, un formulario y una página de conferencias.",
+    "category": "Frontend",
+    "url": "https://github.com/Holger2005/ejercicio_html"
+  },
+  {
+    "id": "desarrolloWeb5",
+    "title": "Registro de personas",
+    "summary": "Formularios y operaciones de alta, edición y eliminación en PHP.",
+    "category": "Backend",
+    "url": "https://github.com/Holger2005/desarrolloWeb5"
+  },
+  {
+    "id": "Evento_Ciclismo",
+    "title": "Evento de ciclismo",
+    "summary": "Formularios para registrar y actualizar participantes.",
+    "category": "Backend",
+    "url": "https://github.com/Holger2005/Evento_Ciclismo"
+  },
+  {
+    "id": "rick-morty-challenge",
+    "title": "Explorador de personajes",
+    "summary": "Búsqueda reactiva, filtros y fichas de personajes de Rick and Morty.",
+    "category": "Frontend",
+    "url": "https://github.com/Holger2005/rick-morty-challenge"
+  },
+  {
+    "id": "comandosGit",
+    "title": "Cuaderno de Git",
+    "summary": "Referencia de comandos de control de versiones.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/comandosGit"
+  },
+  {
+    "id": "juego_cazando",
+    "title": "Juego de caza",
+    "summary": "Práctica de juego web con HTML, estilos y lógica en JavaScript.",
+    "category": "Juegos",
+    "url": "https://github.com/Holger2005/juego_cazando"
+  },
+  {
+    "id": "juego_limones",
+    "title": "Juego de limones",
+    "summary": "Interacción en el navegador con imágenes y funciones de JavaScript.",
+    "category": "Juegos",
+    "url": "https://github.com/Holger2005/juego_limones"
+  },
+  {
+    "id": "menu",
+    "title": "Menú de navegación",
+    "summary": "Práctica de composición de una interfaz con HTML y CSS.",
+    "category": "Frontend",
+    "url": "https://github.com/Holger2005/menu"
+  },
+  {
+    "id": "comisiones",
+    "title": "Calculadora de comisiones",
+    "summary": "Una regla de ventas calcula la comisión y el sueldo total.",
+    "category": "Automatización",
+    "url": "https://github.com/Holger2005/comisiones"
+  },
+  {
+    "id": "simulador",
+    "title": "Simulador web",
+    "summary": "Práctica de formularios, validaciones y funciones en JavaScript.",
+    "category": "Aplicaciones",
+    "url": "https://github.com/Holger2005/simulador"
+  },
+  {
+    "id": "ejercicios_for",
+    "title": "Ciclos y tablas",
+    "summary": "Ejercicios de iteración con una tabla de multiplicar.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/ejercicios_for"
+  },
+  {
+    "id": "tarjetas",
+    "title": "Tarjetas interactivas",
+    "summary": "Componentes de interfaz con HTML, CSS y JavaScript.",
+    "category": "Frontend",
+    "url": "https://github.com/Holger2005/tarjetas"
+  },
+  {
+    "id": "aleatorio",
+    "title": "Números aleatorios",
+    "summary": "Ejercicios de generación de valores en JavaScript.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/aleatorio"
+  },
+  {
+    "id": "arreglo_",
+    "title": "Arreglos en JavaScript",
+    "summary": "Práctica de colecciones de datos en el navegador.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/arreglo_"
+  },
+  {
+    "id": "simulador2",
+    "title": "Sistema de créditos",
+    "summary": "Interfaz de registro de clientes, parámetros y consulta de créditos.",
+    "category": "Aplicaciones",
+    "url": "https://github.com/Holger2005/simulador2"
+  },
+  {
+    "id": "ramas",
+    "title": "Práctica de ramas",
+    "summary": "Ejercicio de control de versiones con una página HTML.",
+    "category": "Frontend",
+    "url": "https://github.com/Holger2005/ramas"
+  },
+  {
+    "id": "juegoSerpiente",
+    "title": "Juego de la serpiente",
+    "summary": "Tablero en Canvas, controles de dirección y marcador de puntos.",
+    "category": "Juegos",
+    "url": "https://github.com/Holger2005/juegoSerpiente"
+  },
+  {
+    "id": "evaluacion_torneo",
+    "title": "Panel de torneos",
+    "summary": "Ejercicio de registro de torneos con un formulario en JavaScript.",
+    "category": "Aplicaciones",
+    "url": "https://github.com/Holger2005/evaluacion_torneo"
+  },
+  {
+    "id": "JAVA",
+    "title": "Restaurante en Java",
+    "summary": "Modelo de platos y restaurantes con clases de prueba.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/JAVA"
+  },
+  {
+    "id": "Clases",
+    "title": "Clases y objetos",
+    "summary": "Calculadora, vehículos y geometría para practicar Java.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/Clases"
+  },
+  {
+    "id": "Tarrer1",
+    "title": "Modelo de cuenta",
+    "summary": "Una cuenta y su clase de prueba en Java.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/Tarrer1"
+  },
+  {
+    "id": "artesanal",
+    "title": "Gestión artesanal",
+    "summary": "Modelo de clientes y máquinas con pruebas unitarias JUnit.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/artesanal"
+  },
+  {
+    "id": "Aliens",
+    "title": "Constructores en Java",
+    "summary": "Práctica de constructores y pruebas con una clase Alien.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/Aliens"
+  },
+  {
+    "id": "repaso",
+    "title": "Entidades y validación",
+    "summary": "Ejercicios con estudiantes, productos y validaciones.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/repaso"
+  },
+  {
+    "id": "Financiero",
+    "title": "Modelo bancario",
+    "summary": "Clientes, cuentas y un servicio de banco en Java.",
+    "category": "Aplicaciones",
+    "url": "https://github.com/Holger2005/Financiero"
+  },
+  {
+    "id": "Herencia",
+    "title": "Herencia en Java",
+    "summary": "Ejemplos de herencia, constructores y colecciones.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/Herencia"
+  },
+  {
+    "id": "Figuras",
+    "title": "Figuras geométricas",
+    "summary": "Modelado de figuras y pruebas de perímetro y representación.",
+    "category": "Fundamentos",
+    "url": "https://github.com/Holger2005/Figuras"
+  },
+  {
+    "id": "Juego",
+    "title": "Controles de videojuego",
+    "summary": "Scripts C# para el jugador, la cámara y la patrulla de enemigos.",
+    "category": "Juegos",
+    "url": "https://github.com/Holger2005/Juego"
+  },
+  {
+    "id": "Juego21",
+    "title": "Juego del 21",
+    "summary": "Modelo de cartas, jugadores y reparto en Java.",
+    "category": "Juegos",
+    "url": "https://github.com/Holger2005/Juego21"
+  },
+  {
+    "id": "Clientes",
+    "title": "API de clientes",
+    "summary": "Controlador, entidad y servicio con pruebas en Spring.",
+    "category": "Backend",
+    "url": "https://github.com/Holger2005/Clientes"
+  },
+  {
+    "id": "Asistencias",
+    "title": "Registro de asistencias",
+    "summary": "Controladores para estudiantes y registros de asistencia.",
+    "category": "Backend",
+    "url": "https://github.com/Holger2005/Asistencias"
+  },
+  {
+    "id": "Sistema-de-Gesti-n-de-Proyectos",
+    "title": "Gestión de proyectos",
+    "summary": "API de proyectos, tareas y empleados con acceso por roles.",
+    "category": "Backend",
+    "url": "https://github.com/Holger2005/Sistema-de-Gesti-n-de-Proyectos"
+  },
+  {
+    "id": "JWT",
+    "title": "Autenticación con JWT",
+    "summary": "Práctica de autenticación con usuarios y tokens en Java.",
+    "category": "Backend",
+    "url": "https://github.com/Holger2005/JWT"
+  },
+  {
+    "id": "patitas",
+    "title": "Patitas",
+    "summary": "API de adopción que registra mascotas y controla el cambio de estado.",
+    "category": "Backend",
+    "url": "https://github.com/Holger2005/patitas"
+  }
+]
